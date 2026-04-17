@@ -1,5 +1,5 @@
 @echo off
-title Bun Server - Hellix
+title Bun Server - chatgpt
 echo Starting Bun server...
 
 :main
